@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/garold664/react-swiper/static/css/main.3523f5d5.css",
+    "main.js": "/garold664/react-swiper/static/js/main.522fb4d5.js",
+    "static/js/787.7d076534.chunk.js": "/garold664/react-swiper/static/js/787.7d076534.chunk.js",
+    "index.html": "/garold664/react-swiper/index.html",
+    "main.3523f5d5.css.map": "/garold664/react-swiper/static/css/main.3523f5d5.css.map",
+    "main.522fb4d5.js.map": "/garold664/react-swiper/static/js/main.522fb4d5.js.map",
+    "787.7d076534.chunk.js.map": "/garold664/react-swiper/static/js/787.7d076534.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3523f5d5.css",
+    "static/js/main.522fb4d5.js"
+  ]
+}
